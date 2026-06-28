@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+__pycache__/
+
+# Data files
+*.json
+*.csv
+*.parquet
+
+# Saved ML Models
+*.pkl
+*.joblib
+
+# OS/IDE files
+.DS_Store
+.vscode/
