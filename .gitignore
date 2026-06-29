@@ -2,6 +2,7 @@
 venv/
 env/
 __pycache__/
+.env
 
 # Data files
 *.json
@@ -15,3 +16,4 @@ __pycache__/
 # OS/IDE files
 .DS_Store
 .vscode/
+

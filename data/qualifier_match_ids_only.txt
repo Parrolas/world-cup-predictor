@@ -1,0 +1,286 @@
+    "sr:sport_event:44659324",  # 2024-03-21 | Pakistan vs Jordan
+    "sr:sport_event:47748371",  # 2024-03-21 | South Africa vs Andorra
+    "sr:sport_event:46186193",  # 2024-03-21 | Portugal vs Sweden
+    "sr:sport_event:45623330",  # 2024-03-21 | Bosnia and Herzegovina vs Ukraine
+    "sr:sport_event:48585821",  # 2024-03-21 | Cape Verde vs Guyana
+    "sr:sport_event:42590821",  # 2024-03-21 | Iraq vs Philippines
+    "sr:sport_event:42590837",  # 2024-03-21 | Saudi Arabia vs Tajikistan
+    "sr:sport_event:42590883",  # 2024-03-21 | Australia vs Lebanon
+    "sr:sport_event:42590629",  # 2024-03-21 | Qatar vs Kuwait
+    "sr:sport_event:44659296",  # 2024-03-21 | Hong Kong vs Uzbekistan
+    "sr:sport_event:42590737",  # 2024-03-21 | Japan vs Korea DPR
+    "sr:sport_event:46186281",  # 2024-03-22 | Netherlands vs Scotland
+    "sr:sport_event:48629209",  # 2024-03-22 | Senegal vs Gabon
+    "sr:sport_event:47105177",  # 2024-03-22 | Norway vs Czechia
+    "sr:sport_event:48700861",  # 2024-03-22 | Nigeria vs Ghana
+    "sr:sport_event:45640774",  # 2024-03-22 | Panama vs Mexico
+    "sr:sport_event:47748379",  # 2024-03-22 | Ecuador vs Guatemala
+    "sr:sport_event:48661803",  # 2024-03-23 | Argentina vs El Salvador
+    "sr:sport_event:48586403",  # 2024-03-25 | Cape Verde vs Equatorial Guinea
+    "sr:sport_event:47748445",  # 2024-03-25 | Sweden vs Albania
+    "sr:sport_event:48897079",  # 2024-03-25 | USA vs Mexico
+    "sr:sport_event:48254431",  # 2024-03-25 | Russia vs Paraguay
+    "sr:sport_event:46186395",  # 2024-03-26 | England vs Belgium
+    "sr:sport_event:42590635",  # 2024-03-26 | Kuwait vs Qatar
+    "sr:sport_event:44659326",  # 2024-03-26 | Jordan vs Pakistan
+    "sr:sport_event:46870049",  # 2024-03-26 | Romania vs Colombia
+    "sr:sport_event:48526733",  # 2024-03-26 | Uruguay vs Ivory Coast
+    "sr:sport_event:48845117",  # 2024-03-26 | Senegal vs Benin
+    "sr:sport_event:46144951",  # 2024-03-26 | Germany vs Netherlands
+    "sr:sport_event:46186339",  # 2024-03-26 | Scotland vs Northern Ireland
+    "sr:sport_event:47105499",  # 2024-03-26 | Ireland vs Switzerland
+    "sr:sport_event:47731137",  # 2024-03-26 | Austria vs Turkiye
+    "sr:sport_event:47395897",  # 2024-03-26 | France vs Chile
+    "sr:sport_event:48934567",  # 2024-03-26 | Egypt vs Croatia
+    "sr:sport_event:48934703",  # 2024-03-26 | New Zealand vs Tunisia
+    "sr:sport_event:47105501",  # 2024-03-26 | Spain vs Brazil
+    "sr:sport_event:47748531",  # 2024-03-26 | Algeria vs South Africa
+    "sr:sport_event:48805989",  # 2024-03-26 | Morocco vs Mauritania
+    "sr:sport_event:47395895",  # 2024-03-26 | Slovenia vs Portugal
+    "sr:sport_event:47105495",  # 2024-03-26 | Norway vs Slovakia
+    "sr:sport_event:42590885",  # 2024-03-26 | Lebanon vs Australia
+    "sr:sport_event:42590823",  # 2024-03-26 | Philippines vs Iraq
+    "sr:sport_event:42590739",  # 2024-03-26 | Korea DPR vs Japan
+    "sr:sport_event:42590839",  # 2024-03-26 | Tajikistan vs Saudi Arabia
+    "sr:sport_event:48992925",  # 2024-03-26 | Ghana vs Uganda
+    "sr:sport_event:44659298",  # 2024-03-26 | Uzbekistan vs Hong Kong
+    "sr:sport_event:48219169",  # 2024-06-05 | Spain vs Andorra
+    "sr:sport_event:49656447",  # 2024-06-05 | France vs Luxembourg
+    "sr:sport_event:47847923",  # 2024-06-05 | Belgium vs Montenegro
+    "sr:sport_event:47847921",  # 2024-06-05 | Denmark vs Sweden
+    "sr:sport_event:47847925",  # 2024-06-05 | Norway vs Kosovo
+    "sr:sport_event:42590841",  # 2024-06-06 | Jordan vs Tajikistan
+    "sr:sport_event:49441357",  # 2024-06-06 | Netherlands vs Canada
+    "sr:sport_event:44659316",  # 2024-06-06 | Indonesia vs Iraq
+    "sr:sport_event:44659116",  # 2024-06-06 | Afghanistan vs Qatar
+    "sr:sport_event:44659328",  # 2024-06-06 | Pakistan vs Saudi Arabia
+    "sr:sport_event:42590795",  # 2024-06-06 | Uzbekistan vs Turkmenistan
+    "sr:sport_event:44659142",  # 2024-06-06 | Myanmar vs Japan
+    "sr:sport_event:44659548",  # 2024-06-06 | Bangladesh vs Australia
+    "sr:sport_event:49441353",  # 2024-06-06 | Mexico vs Uruguay
+    "sr:sport_event:50259853",  # 2024-06-08 | Peru vs Paraguay
+    "sr:sport_event:49441451",  # 2024-06-09 | Mexico vs Brazil
+    "sr:sport_event:49441603",  # 2024-06-10 | Netherlands vs Iceland
+    "sr:sport_event:51443485",  # 2024-10-10 | Algeria vs Togo
+    "sr:sport_event:47659623",  # 2024-10-10 | Norway vs Slovenia
+    "sr:sport_event:47659619",  # 2024-10-10 | Austria vs Kazakhstan
+    "sr:sport_event:47659487",  # 2024-10-10 | England vs Greece
+    "sr:sport_event:47659385",  # 2024-10-10 | Italy vs Belgium
+    "sr:sport_event:47659383",  # 2024-10-10 | Israel vs France
+    "sr:sport_event:51133471",  # 2024-10-10 | Saudi Arabia vs Japan
+    "sr:sport_event:51133409",  # 2024-10-10 | Iraq vs Palestine
+    "sr:sport_event:51133473",  # 2024-10-10 | Australia vs China PR
+    "sr:sport_event:51133343",  # 2024-10-10 | Uzbekistan vs IR Iran
+    "sr:sport_event:51133407",  # 2024-10-10 | Jordan vs Korea Republic
+    "sr:sport_event:51133345",  # 2024-10-10 | Qatar vs Kyrgyzstan
+    "sr:sport_event:51442887",  # 2024-10-10 | Cape Verde vs Botswana
+    "sr:sport_event:51443979",  # 2024-10-10 | Ghana vs Sudan
+    "sr:sport_event:51442889",  # 2024-10-11 | Egypt vs Mauritania
+    "sr:sport_event:51444121",  # 2024-10-11 | South Africa vs Congo Republic
+    "sr:sport_event:50851703",  # 2024-10-12 | Aruba vs Haiti
+    "sr:sport_event:51421039",  # 2024-10-13 | USA vs Panama
+    "sr:sport_event:54461133",  # 2024-10-13 | Mexico vs Valencia CF
+    "sr:sport_event:47659387",  # 2024-10-14 | Belgium vs France
+    "sr:sport_event:47659411",  # 2024-10-14 | Bosnia and Herzegovina vs Hungary
+    "sr:sport_event:47659413",  # 2024-10-14 | Germany vs Netherlands
+    "sr:sport_event:47659805",  # 2024-10-14 | Estonia vs Sweden
+    "sr:sport_event:50851679",  # 2024-10-14 | Curacao vs Grenada
+    "sr:sport_event:51443489",  # 2024-10-14 | Togo vs Algeria
+    "sr:sport_event:54183571",  # 2024-10-14 | New Zealand vs Malaysia
+    "sr:sport_event:51133347",  # 2024-10-15 | IR Iran vs Qatar
+    "sr:sport_event:51133413",  # 2024-10-15 | Jordan vs Oman
+    "sr:sport_event:51442891",  # 2024-10-15 | Botswana vs Cape Verde
+    "sr:sport_event:51442893",  # 2024-10-15 | Mauritania vs Egypt
+    "sr:sport_event:51444015",  # 2024-10-15 | Sierra Leone vs Ivory Coast
+    "sr:sport_event:51444125",  # 2024-10-15 | Congo Republic vs South Africa
+    "sr:sport_event:47659353",  # 2024-10-15 | Poland vs Croatia
+    "sr:sport_event:47659355",  # 2024-10-15 | Scotland vs Portugal
+    "sr:sport_event:47659439",  # 2024-10-15 | Spain vs Serbia
+    "sr:sport_event:47659441",  # 2024-10-15 | Switzerland vs Denmark
+    "sr:sport_event:51441989",  # 2024-10-15 | Comoros vs Tunisia
+    "sr:sport_event:51442391",  # 2024-10-15 | Central African Republic vs Morocco
+    "sr:sport_event:51133477",  # 2024-10-15 | Saudi Arabia vs Bahrain
+    "sr:sport_event:50851707",  # 2024-10-15 | Haiti vs Aruba
+    "sr:sport_event:51133475",  # 2024-10-15 | Japan vs Australia
+    "sr:sport_event:51133411",  # 2024-10-15 | Korea Republic vs Iraq
+    "sr:sport_event:51443983",  # 2024-10-15 | Sudan vs Ghana
+    "sr:sport_event:51444159",  # 2024-10-15 | Malawi vs Senegal
+    "sr:sport_event:51133349",  # 2024-10-15 | Uzbekistan vs United Arab Emirates
+    "sr:sport_event:47659391",  # 2024-11-14 | Belgium vs Italy
+    "sr:sport_event:47659393",  # 2024-11-14 | France vs Israel
+    "sr:sport_event:47659639",  # 2024-11-14 | Slovenia vs Norway
+    "sr:sport_event:51444163",  # 2024-11-14 | Burkina Faso vs Senegal
+    "sr:sport_event:47659495",  # 2024-11-14 | Greece vs England
+    "sr:sport_event:51441993",  # 2024-11-14 | Madagascar vs Tunisia
+    "sr:sport_event:51133417",  # 2024-11-14 | Iraq vs Jordan
+    "sr:sport_event:51133353",  # 2024-11-14 | Qatar vs Uzbekistan
+    "sr:sport_event:47659635",  # 2024-11-14 | Kazakhstan vs Austria
+    "sr:sport_event:51443493",  # 2024-11-14 | Equatorial Guinea vs Algeria
+    "sr:sport_event:51133481",  # 2024-11-14 | Australia vs Saudi Arabia
+    "sr:sport_event:51442395",  # 2024-11-15 | Gabon vs Morocco
+    "sr:sport_event:51443987",  # 2024-11-15 | Angola vs Ghana
+    "sr:sport_event:47659445",  # 2024-11-15 | Switzerland vs Serbia
+    "sr:sport_event:47659357",  # 2024-11-15 | Portugal vs Poland
+    "sr:sport_event:47659359",  # 2024-11-15 | Scotland vs Croatia
+    "sr:sport_event:47659443",  # 2024-11-15 | Denmark vs Spain
+    "sr:sport_event:51444019",  # 2024-11-15 | Zambia vs Ivory Coast
+    "sr:sport_event:54669121",  # 2024-11-15 | Costa Rica vs Panama
+    "sr:sport_event:51133485",  # 2024-11-15 | Indonesia vs Japan
+    "sr:sport_event:51444143",  # 2024-11-15 | Uganda vs South Africa
+    "sr:sport_event:51442897",  # 2024-11-15 | Cape Verde vs Egypt
+    "sr:sport_event:54669127",  # 2024-11-16 | Honduras vs Mexico
+    "sr:sport_event:50851687",  # 2024-11-18 | Curacao vs Saint Lucia
+    "sr:sport_event:51441995",  # 2024-11-18 | Tunisia vs Gambia
+    "sr:sport_event:47659449",  # 2024-11-18 | Spain vs Switzerland
+    "sr:sport_event:47659363",  # 2024-11-18 | Poland vs Scotland
+    "sr:sport_event:47659361",  # 2024-11-18 | Croatia vs Portugal
+    "sr:sport_event:51442397",  # 2024-11-18 | Morocco vs Lesotho
+    "sr:sport_event:51443989",  # 2024-11-18 | Ghana vs Niger
+    "sr:sport_event:51133425",  # 2024-11-19 | Kuwait vs Jordan
+    "sr:sport_event:51444165",  # 2024-11-19 | Senegal vs Burundi
+    "sr:sport_event:47659419",  # 2024-11-19 | Bosnia and Herzegovina vs Netherlands
+    "sr:sport_event:47659421",  # 2024-11-19 | Hungary vs Germany
+    "sr:sport_event:47659813",  # 2024-11-19 | Sweden vs Azerbaijan
+    "sr:sport_event:51133487",  # 2024-11-19 | Bahrain vs Australia
+    "sr:sport_event:51444131",  # 2024-11-19 | South Africa vs South Sudan
+    "sr:sport_event:51133423",  # 2024-11-19 | Oman vs Iraq
+    "sr:sport_event:50851715",  # 2024-11-19 | Haiti vs Puerto Rico
+    "sr:sport_event:54669131",  # 2024-11-19 | Panama vs Costa Rica
+    "sr:sport_event:51133489",  # 2024-11-19 | Indonesia vs Saudi Arabia
+    "sr:sport_event:51133491",  # 2024-11-19 | China PR vs Japan
+    "sr:sport_event:51133361",  # 2024-11-19 | Korea DPR vs Uzbekistan
+    "sr:sport_event:51444021",  # 2024-11-19 | Ivory Coast vs Chad
+    "sr:sport_event:51442899",  # 2024-11-19 | Egypt vs Botswana
+    "sr:sport_event:51442901",  # 2024-11-19 | Mauritania vs Cape Verde
+    "sr:sport_event:51133359",  # 2024-11-19 | United Arab Emirates vs Qatar
+    "sr:sport_event:55807517",  # 2025-03-20 | Ukraine vs Belgium
+    "sr:sport_event:55807521",  # 2025-03-20 | Austria vs Serbia
+    "sr:sport_event:55807529",  # 2025-03-20 | Greece vs Scotland
+    "sr:sport_event:55807539",  # 2025-03-20 | Netherlands vs Spain
+    "sr:sport_event:55753913",  # 2025-03-20 | USA vs Panama
+    "sr:sport_event:55807549",  # 2025-03-20 | Croatia vs France
+    "sr:sport_event:55807555",  # 2025-03-20 | Italy vs Germany
+    "sr:sport_event:51133497",  # 2025-03-20 | Saudi Arabia vs China PR
+    "sr:sport_event:55807543",  # 2025-03-20 | Denmark vs Portugal
+    "sr:sport_event:51133431",  # 2025-03-20 | Iraq vs Kuwait
+    "sr:sport_event:51133433",  # 2025-03-20 | Jordan vs Palestine
+    "sr:sport_event:51133495",  # 2025-03-20 | Australia vs Indonesia
+    "sr:sport_event:51133493",  # 2025-03-20 | Japan vs Bahrain
+    "sr:sport_event:51133369",  # 2025-03-20 | Uzbekistan vs Kyrgyzstan
+    "sr:sport_event:51133367",  # 2025-03-20 | Qatar vs Korea DPR
+    "sr:sport_event:55753911",  # 2025-03-21 | Canada vs Mexico
+    "sr:sport_event:59137579",  # 2025-03-24 | Mexico vs Panama
+    "sr:sport_event:58593775",  # 2025-03-25 | Sweden vs Northern Ireland
+    "sr:sport_event:51133437",  # 2025-03-25 | Palestine vs Iraq
+    "sr:sport_event:58593779",  # 2025-03-25 | Switzerland vs Luxembourg
+    "sr:sport_event:51133371",  # 2025-03-25 | IR Iran vs Uzbekistan
+    "sr:sport_event:51133499",  # 2025-03-25 | Japan vs Saudi Arabia
+    "sr:sport_event:51133435",  # 2025-03-25 | Korea Republic vs Jordan
+    "sr:sport_event:51133501",  # 2025-03-25 | China PR vs Australia
+    "sr:sport_event:51133373",  # 2025-03-25 | Kyrgyzstan vs Qatar
+    "sr:sport_event:51133377",  # 2025-06-05 | Qatar vs IR Iran
+    "sr:sport_event:55809539",  # 2025-06-05 | Spain vs France
+    "sr:sport_event:51133441",  # 2025-06-05 | Iraq vs Korea Republic
+    "sr:sport_event:51133507",  # 2025-06-05 | Bahrain vs Saudi Arabia
+    "sr:sport_event:51133443",  # 2025-06-05 | Oman vs Jordan
+    "sr:sport_event:51133379",  # 2025-06-05 | United Arab Emirates vs Uzbekistan
+    "sr:sport_event:51133505",  # 2025-06-05 | Australia vs Japan
+    "sr:sport_event:60922789",  # 2025-06-05 | Algeria vs Rwanda
+    "sr:sport_event:60698923",  # 2025-06-06 | Ireland vs Senegal
+    "sr:sport_event:61037745",  # 2025-06-06 | South Africa vs Tanzania
+    "sr:sport_event:60698921",  # 2025-06-06 | Scotland vs Iceland
+    "sr:sport_event:60698919",  # 2025-06-06 | Hungary vs Sweden
+    "sr:sport_event:55809543",  # 2025-06-08 | Germany vs France
+    "sr:sport_event:61013891",  # 2025-06-09 | Morocco vs Benin
+    "sr:sport_event:61037747",  # 2025-06-09 | Algeria vs Rwanda
+    "sr:sport_event:60453207",  # 2025-06-09 | Liechtenstein vs Scotland
+    "sr:sport_event:51133449",  # 2025-06-10 | Jordan vs Iraq
+    "sr:sport_event:59321973",  # 2025-06-10 | New Zealand vs Ukraine
+    "sr:sport_event:60454813",  # 2025-06-10 | England vs Senegal
+    "sr:sport_event:51133513",  # 2025-06-10 | Saudi Arabia vs Australia
+    "sr:sport_event:60453215",  # 2025-06-10 | Sweden vs Algeria
+    "sr:sport_event:60453205",  # 2025-06-10 | Slovenia vs Bosnia and Herzegovina
+    "sr:sport_event:60768249",  # 2025-06-10 | South Africa vs Mauritius
+    "sr:sport_event:51133385",  # 2025-06-10 | Uzbekistan vs Qatar
+    "sr:sport_event:51133511",  # 2025-06-10 | Japan vs Indonesia
+    "sr:sport_event:62629619",  # 2025-09-04 | Russia vs Jordan
+    "sr:sport_event:60525655",  # 2025-09-04 | Norway vs Finland
+    "sr:sport_event:63327615",  # 2025-09-04 | Saudi Arabia vs North Macedonia
+    "sr:sport_event:62884713",  # 2025-09-04 | Iraq vs Hong Kong
+    "sr:sport_event:63295465",  # 2025-09-05 | Australia vs New Zealand
+    "sr:sport_event:63293275",  # 2025-09-07 | Mexico vs Japan
+    "sr:sport_event:63073203",  # 2025-09-08 | Czechia vs Saudi Arabia
+    "sr:sport_event:63556427",  # 2025-09-09 | Jordan vs Dominican Republic
+    "sr:sport_event:60698957",  # 2025-09-09 | Wales vs Canada
+    "sr:sport_event:63556431",  # 2025-09-09 | Egypt vs Tunisia
+    "sr:sport_event:63295473",  # 2025-09-09 | New Zealand vs Australia
+    "sr:sport_event:64032833",  # 2025-10-09 | Morocco vs Bahrain
+    "sr:sport_event:63295841",  # 2025-10-09 | Poland vs New Zealand
+    "sr:sport_event:60525673",  # 2025-10-09 | England vs Wales
+    "sr:sport_event:64213853",  # 2025-10-09 | Uzbekistan vs Kuwait
+    "sr:sport_event:64095037",  # 2025-10-10 | Bolivia vs Jordan
+    "sr:sport_event:63298569",  # 2025-10-10 | Japan vs Paraguay
+    "sr:sport_event:64008403",  # 2025-10-10 | Korea Republic vs Brazil
+    "sr:sport_event:64033879",  # 2025-10-10 | Uruguay vs Dominican Republic
+    "sr:sport_event:64095899",  # 2025-10-11 | Argentina vs Venezuela
+    "sr:sport_event:63293753",  # 2025-10-11 | USA vs Ecuador
+    "sr:sport_event:63298593",  # 2025-10-12 | Mexico vs Colombia
+    "sr:sport_event:64095149",  # 2025-10-13 | Uzbekistan vs Uruguay
+    "sr:sport_event:62092970",  # 2025-10-14 | Qatar vs United Arab Emirates
+    "sr:sport_event:62092982",  # 2025-10-14 | Saudi Arabia vs Iraq
+    "sr:sport_event:60698967",  # 2025-10-14 | Norway vs New Zealand
+    "sr:sport_event:63883105",  # 2025-10-14 | Albania vs Jordan
+    "sr:sport_event:63309071",  # 2025-10-14 | Japan vs Brazil
+    "sr:sport_event:64096273",  # 2025-10-14 | Korea Republic vs Paraguay
+    "sr:sport_event:65204782",  # 2025-11-13 | Cape Verde vs IR Iran
+    "sr:sport_event:64550264",  # 2025-11-13 | United Arab Emirates vs Iraq
+    "sr:sport_event:65200712",  # 2025-11-13 | Algeria vs Zimbabwe
+    "sr:sport_event:65200970",  # 2025-11-14 | Saudi Arabia vs Ivory Coast
+    "sr:sport_event:65049860",  # 2025-11-14 | Tunisia vs Jordan
+    "sr:sport_event:65214510",  # 2025-11-14 | Morocco vs Mozambique
+    "sr:sport_event:65204784",  # 2025-11-14 | Uzbekistan vs Egypt
+    "sr:sport_event:65201486",  # 2025-11-14 | Canada vs Ecuador
+    "sr:sport_event:65202000",  # 2025-11-14 | Japan vs Ghana
+    "sr:sport_event:65107084",  # 2025-11-14 | Angola vs Argentina
+    "sr:sport_event:65215442",  # 2025-11-15 | Colombia vs Australia
+    "sr:sport_event:65214560",  # 2025-11-15 | Venezuela vs Australia
+    "sr:sport_event:65216304",  # 2025-11-16 | Colombia vs New Zealand
+    "sr:sport_event:65216300",  # 2025-11-16 | Mexico vs Uruguay
+    "sr:sport_event:65688054",  # 2025-11-17 | Qatar vs Zimbabwe
+    "sr:sport_event:65764842",  # 2025-11-17 | Cape Verde vs Egypt
+    "sr:sport_event:65606058",  # 2025-11-18 | Jordan vs Mali
+    "sr:sport_event:65214520",  # 2025-11-18 | Morocco vs Uganda
+    "sr:sport_event:64684832",  # 2025-11-18 | Brazil vs Tunisia
+    "sr:sport_event:65200794",  # 2025-11-18 | Saudi Arabia vs Algeria
+    "sr:sport_event:65728412",  # 2025-11-18 | Uzbekistan vs IR Iran
+    "sr:sport_event:65202002",  # 2025-11-18 | Japan vs Bolivia
+    "sr:sport_event:65203578",  # 2025-11-18 | Korea Republic vs Ghana
+    "sr:sport_event:64550266",  # 2025-11-18 | Iraq vs United Arab Emirates
+    "sr:sport_event:65577622",  # 2025-11-18 | Kenya vs Senegal
+    "sr:sport_event:65204170",  # 2025-11-18 | Oman vs Ivory Coast
+    "sr:sport_event:68020950",  # 2026-03-26 | Qatar vs Serbia
+    "sr:sport_event:67613698",  # 2026-03-26 | Brazil vs France
+    "sr:sport_event:70009604",  # 2026-03-26 | Croatia vs Colombia
+    "sr:sport_event:69265542",  # 2026-03-27 | Uzbekistan vs Gabon
+    "sr:sport_event:68043028",  # 2026-03-27 | New Zealand vs Finland
+    "sr:sport_event:68268632",  # 2026-03-27 | China PR vs Curacao
+    "sr:sport_event:68042876",  # 2026-03-27 | Chile vs Cape Verde
+    "sr:sport_event:68268726",  # 2026-03-27 | Australia vs Cameroon
+    "sr:sport_event:68269026",  # 2026-03-29 | Haiti vs Tunisia
+    "sr:sport_event:67805524",  # 2026-03-29 | Mexico vs Portugal
+    "sr:sport_event:67762770",  # 2026-03-30 | Germany vs Ghana
+    "sr:sport_event:69797936",  # 2026-03-30 | New Zealand vs Chile
+    "sr:sport_event:68045106",  # 2026-03-30 | Cape Verde vs Finland
+    "sr:sport_event:69265550",  # 2026-03-30 | Uzbekistan vs Venezuela
+    "sr:sport_event:68269344",  # 2026-03-31 | Haiti vs Iceland
+    "sr:sport_event:67763768",  # 2026-03-31 | Norway vs Switzerland
+    "sr:sport_event:68020954",  # 2026-03-31 | Serbia vs Saudi Arabia
+    "sr:sport_event:69829446",  # 2026-03-31 | Jordan vs Nigeria
+    "sr:sport_event:69829460",  # 2026-03-31 | South Africa vs Panama
+    "sr:sport_event:68913832",  # 2026-03-31 | Morocco vs Paraguay
+    "sr:sport_event:69164810",  # 2026-03-31 | Algeria vs Uruguay
+    "sr:sport_event:69466342",  # 2026-03-31 | Scotland vs Ivory Coast
+    "sr:sport_event:67763828",  # 2026-03-31 | England vs Japan
+    "sr:sport_event:67763830",  # 2026-03-31 | Netherlands vs Ecuador
+    "sr:sport_event:68269258",  # 2026-03-31 | Australia vs Curacao
+    "sr:sport_event:68269664",  # 2026-03-31 | Austria vs Korea Republic
