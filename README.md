@@ -21,20 +21,20 @@ The project is broken down into four main steps:
 ## Example Output
 
 ```text
---- Match Simulation: France vs Brazil ---
-Expected Goals: France 1.52 - 1.20 Brazil
+--- Match Simulation: Portugal vs Spain ---
+Expected Goals: Portugal 1.60 - 2.15 Spain
 
 --- Win Probabilities ---
-France Win: 42.5%
-Draw: 26.1%
-Brazil Win: 31.4%
+Portugal Win: 28.9%
+Draw: 20.4%
+Spain Win: 50.6%
 
 --- Top 5 Most Likely Scorelines ---
-1 - 1 : 12.3%
-1 - 0 : 10.5%
-2 - 1 : 9.2%
-0 - 0 : 8.8%
-2 - 0 : 7.5%
+1 - 2 : 8.6%
+1 - 1 : 8.0%
+2 - 2 : 6.7%
+2 - 1 : 6.6%
+1 - 3 : 6.2%
 ```
 
 ## Tech Stack
@@ -50,7 +50,7 @@ Brazil Win: 31.4%
 
 2. Install the required packages:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib mplsoccer requests python-dotenv
+   pip install -r requirements.txt
    ```
 3. Get a Sportradar API key and save it in a `.env` file:
    ```text
