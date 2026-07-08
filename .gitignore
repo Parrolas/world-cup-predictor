@@ -9,6 +9,7 @@ __pycache__/
 *.csv
 *.parquet
 *.txt
+!requirements.txt
 
 # Saved ML Models
 *.pkl
