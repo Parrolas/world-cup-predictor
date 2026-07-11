@@ -10,9 +10,10 @@ elo_path = os.path.join(base_dir, "data", "team_elos.json")
 with open(elo_path, 'r') as f:
     teams_elo = json.load(f)
 
-print("🏆" * 20)
-print("  WORLD CUP MATCH SIMULATOR")
-print("🏆" * 20)
+print('-' * 27)
+print(" WORLD CUP MATCH SIMULATOR")
+print('-' * 27)
+
 print(f"\nDatabase loaded: {len(teams_elo)} teams available.\n")
 
 # 2. Get User Input
